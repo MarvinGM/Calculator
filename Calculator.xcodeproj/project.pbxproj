@@ -13,6 +13,7 @@
 		579CD0782661E79500E69C41 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 579CD0762661E79500E69C41 /* Main.storyboard */; };
 		579CD07A2661E79500E69C41 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 579CD0792661E79500E69C41 /* Assets.xcassets */; };
 		579CD07D2661E79500E69C41 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 579CD07B2661E79500E69C41 /* LaunchScreen.storyboard */; };
+		579CD085266201F900E69C41 /* StructsEnums.swift in Sources */ = {isa = PBXBuildFile; fileRef = 579CD084266201F900E69C41 /* StructsEnums.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		579CD0792661E79500E69C41 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		579CD07C2661E79500E69C41 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		579CD07E2661E79500E69C41 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		579CD084266201F900E69C41 /* StructsEnums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StructsEnums.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				579CD0792661E79500E69C41 /* Assets.xcassets */,
 				579CD07B2661E79500E69C41 /* LaunchScreen.storyboard */,
 				579CD07E2661E79500E69C41 /* Info.plist */,
+				579CD084266201F900E69C41 /* StructsEnums.swift */,
 			);
 			path = Calculator;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				579CD0752661E79500E69C41 /* ViewController.swift in Sources */,
+				579CD085266201F900E69C41 /* StructsEnums.swift in Sources */,
 				579CD0712661E79500E69C41 /* AppDelegate.swift in Sources */,
 				579CD0732661E79500E69C41 /* SceneDelegate.swift in Sources */,
 			);
